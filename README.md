@@ -6,9 +6,3 @@ A logo animation for a film student
 2. Open the After Effects file and make edits as needed
 3. Save and Re-package the project with File>Dependencies>Collect Files... then hit Collect button
 4. You will get a new project folder, zip it and upload back to git hub
-
-
-
-
-#### Useful Links 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
